@@ -7,7 +7,7 @@ Python 3.x
 ## Usage
 Clone the repository:
 ```
-git clone [https://github.com/saqiba123/file-organizer.git](https://github.com/saqiba123/AutomateFiles.git)
+git clone https://github.com/saqiba123/AutomateFiles.git
 ```
 cd file-organizer
 
