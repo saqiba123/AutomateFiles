@@ -1,4 +1,4 @@
-# File Organizer Script
+# File Organizer Automation Script
 ## Overview
 This Python script organizes files in a directory into subfolders based on their file types.
 
@@ -7,7 +7,7 @@ Python 3.x
 ## Usage
 Clone the repository:
 ```
-git clone https://github.com/saqiba123/file-organizer.git
+git clone [https://github.com/saqiba123/file-organizer.git](https://github.com/saqiba123/AutomateFiles.git)
 ```
 cd file-organizer
 
@@ -16,7 +16,7 @@ Set directory path:
 Modify directory_path in the script to your target directory.
 Run the script:
 ```
-python automate_file.py
+python file_automate.py
 ```
 ## Functionality
 Creates subfolders: Based on file types like documents, images, videos, audio, and others.
